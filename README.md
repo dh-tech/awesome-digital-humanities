@@ -7,5 +7,5 @@ This is a curated list of tools and services supporting the Digital Humanties.
 
 ## Geospatial
 
-  * [GeoBrowser](https://geobrowser.de.dariah.eu/) - The DARIAH-DE Geo-Browser allows a comparative visualization of several requests and facilitates the representation of data and their visualization in a correlation of geographic spatial relations at corresponding points of time and sequences. Find out more at [DARIAH-DE](https://de.dariah.eu/en/geobrowser).
+  * [Geo-Browser](https://geobrowser.de.dariah.eu/) - The DARIAH-DE Geo-Browser allows a comparative visualization of several requests and facilitates the representation of data and their visualization in a correlation of geographic spatial relations at corresponding points of time and sequences. Find out more at [DARIAH-DE](https://de.dariah.eu/en/geobrowser).
 
