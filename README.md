@@ -4,6 +4,7 @@
 
 
 This is a curated list of tools and services supporting the Digital Humanities.
+[Contributions](CONTRIBUTING.md) are welcome!
 
 ## Geospatial
 
