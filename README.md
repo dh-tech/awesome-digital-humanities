@@ -17,7 +17,11 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 ## Tool building/Rapid prototyping
 
- * [JupyterHub Workspace](https://github.com/maltevogl/jupyterworkspace) - The JupyterHub Workspace aims to be a collaborative programming and code-sharing platform. It provides access to browser-based Jupyter Notebooks, which integrate code with explanatory text, and are already used as a new publishing form. Data can be shared using the Nextcloud backend. A single sign-on mechanism simplifies access. By sharing useful code snippets among users, a growing examples collection further lowers the entrance barrier to programming for new DH members.        
+ * [JupyterHub Workspace](https://github.com/maltevogl/jupyterworkspace) - The JupyterHub Workspace aims to be a collaborative programming and code-sharing platform. It provides access to browser-based Jupyter Notebooks, which integrate code with explanatory text, and are already used as a new publishing form. Data can be shared using the Nextcloud backend. A single sign-on mechanism simplifies access. By sharing useful code snippets among users, a growing examples collection further lowers the entrance barrier to programming for new DH members.  
+ 
+## Corpus linguistics
+
+* [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
 
 ## User Guides
 
