@@ -40,3 +40,5 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [ADHO](http://adho.org/) - The Alliance of Digital Humanities Organizations (ADHO) promotes and supports digital research and teaching across all arts and humanities disciplines, acting as a community-based advisory force, and supporting excellence in research, publication, collaboration and training.
 
 * [ACH](http://ach.org/) - Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.
+
+* [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
