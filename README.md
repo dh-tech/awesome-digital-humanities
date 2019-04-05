@@ -44,3 +44,5 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
 
 * [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now is an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
+
+* [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
