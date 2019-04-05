@@ -29,7 +29,7 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 ## Organizations & Research Infrastructures
 
-* [CLARIN ](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
+* [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
 
 * [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
 
