@@ -33,7 +33,7 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 * [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
 
-* [CHAIN](http://www.clarin.eu/news/coalition-of-humanities-and-arts-infrastructures-and-networks-chain) - Coalition of Humanities and Arts Infrastructures and Networks.
+* [CHAIN](https://mith.umd.edu/chain/) - Coalition of Humanities and Arts Infrastructures and Networks.
 
 * [CHCI](https://chcinetwork.org/) - Consortium of Humanities Centers and Institutes. Currently it has a membership of more than 250 organizations in the Americas, Europe, Africa, Asia, and Pacific Rim. Our members include humanities centers at small, medium, and large colleges and universities, community colleges, independent scholarly societies, research libraries, and other institutes of advanced study.
 
