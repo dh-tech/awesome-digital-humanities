@@ -42,3 +42,5 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [ACH](http://ach.org/) - Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.
 
 * [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
+
+* [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now is an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
