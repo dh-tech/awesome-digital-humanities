@@ -18,7 +18,7 @@ This is a curated list of tools and services supporting the Digital Humanities.
 ## Tool building/Rapid prototyping
 
  * [JupyterHub Workspace](https://github.com/maltevogl/jupyterworkspace) - The JupyterHub Workspace aims to be a collaborative programming and code-sharing platform. It provides access to browser-based Jupyter Notebooks, which integrate code with explanatory text, and are already used as a new publishing form. Data can be shared using the Nextcloud backend. A single sign-on mechanism simplifies access. By sharing useful code snippets among users, a growing examples collection further lowers the entrance barrier to programming for new DH members.  
- 
+
 ## Corpus linguistics
 
 * [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
@@ -27,3 +27,6 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 * [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
 
+## Organizations & Research Infrastructures
+
+* [CLARIN ](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
