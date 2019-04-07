@@ -50,7 +50,7 @@ This is a curated list of tools and services supporting the Digital Humanities.
 ## Other DH Tools Lists, Directories, Collections, Catalogs & Repositories
 * [DiRT (Digital Research Tools)](https://dirtdirectory.org/) - The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mind-mapping software.
 
-* [TAPoR 3](http://tapor-test.artsrn.ualberta.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
+* [TAPoR 3](http://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
 
 * [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.
 
