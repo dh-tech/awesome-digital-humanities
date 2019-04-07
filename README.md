@@ -48,3 +48,4 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
 
 ## Other DH Tools Lists, Directories, Collections, Catalogs & Repositories
+* [DiRT (Digital Research Tools)](https://dirtdirectory.org/) - The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mind-mapping software.
