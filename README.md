@@ -53,3 +53,5 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [TAPoR 3](http://tapor-test.artsrn.ualberta.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
 
 * [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.
+
+* [Digital Textuality Resource Pages](http://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages) - Inspired by Alan Liu's ToyChest, Kimberly Knight and her students at U. Texas (Dallas) keep in this repository a list of tools for text production, visualization, still image work, sound work, and video and animation; includes some student reviews of tools.
