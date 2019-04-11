@@ -27,6 +27,8 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 * [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
 
+* [Digital Humanities 101 (DH101)](http://dh101.humanities.ucla.edu/) - This online coursebook (and related collection of resources) is meant to provide introductory materials to digital approaches relevant to a wide range of disciplines. The lessons and tutorials assume no prior knowledge or experience and are meant to introduce fundamental skills and critical issues in digital humanities.
+
 ## Organizations & Research Infrastructures
 
 * [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
