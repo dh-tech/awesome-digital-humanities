@@ -26,6 +26,7 @@ This is a curated list of tools and services supporting the Digital Humanities.
 ## User Guides
 
 * [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
+* [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
 
 ## Organizations & Research Infrastructures
 
