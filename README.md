@@ -29,6 +29,8 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 * [Introduction to Digital Humanities (DH101)](http://dh101.humanities.ucla.edu/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
 
+* [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
+
 ## Organizations & Research Infrastructures
 
 * [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
