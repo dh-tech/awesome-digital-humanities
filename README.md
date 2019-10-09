@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-This is a curated list of tools and services supporting the Digital Humanities.
+This is a curated list of tools, resources, and services supporting the Digital Humanities.
 [Contributions](CONTRIBUTING.md) are welcome!
 
 ## Geospatial
@@ -27,6 +27,10 @@ This is a curated list of tools and services supporting the Digital Humanities.
 
 * [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
 * [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
+
+* [Introduction to Digital Humanities (DH101)](http://dh101.humanities.ucla.edu/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
+
+* [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
 ## Organizations & Research Infrastructures
 
@@ -60,3 +64,5 @@ This is a curated list of tools and services supporting the Digital Humanities.
 * [Duke University's DH Tools catalog](https://digitalhumanities.duke.edu/tools) - This list includes tools that Duke supports and tools that have been used by Duke digital projects. Some of the tools are made specifically for DH and others that can be re-purposed quite effectively for Humanities research.
 
 * [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
+
+* [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
