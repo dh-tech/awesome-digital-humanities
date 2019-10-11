@@ -32,6 +32,8 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 * [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
+* [PARTHENOS Training](https://training.parthenos-project.eu/) -  the PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
+
 ## Organizations & Research Infrastructures
 
 * [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
@@ -66,5 +68,3 @@ This is a curated list of tools, resources, and services supporting the Digital 
 * [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
 
 * [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
-
-* [PARTHENOS Training](https://training.parthenos-project.eu/) -  the PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
