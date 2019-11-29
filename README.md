@@ -34,6 +34,8 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 * [PARTHENOS Training](https://training.parthenos-project.eu/) -  the PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
 
+* [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in german.
+
 ## Organizations & Research Infrastructures
 
 * [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
