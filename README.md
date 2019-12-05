@@ -68,3 +68,5 @@ This is a curated list of tools, resources, and services supporting the Digital 
 * [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
 
 * [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
+
+* [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in German.
