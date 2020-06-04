@@ -23,7 +23,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 * [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
 
-## User Guides
+## User Guides & Training Materials
 
 * [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
 * [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
@@ -33,6 +33,10 @@ This is a curated list of tools, resources, and services supporting the Digital 
 * [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
 * [PARTHENOS Training](https://training.parthenos-project.eu/) -  the PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
+
+* [#dariahTeach](https://teach.dariah.eu/) - An open-source, multilingual, community-driven platform for high-quality teaching and training materials for the digital arts and humanities. 
+
+* [DARIAH-CAMPUS](https://campus.dariah.eu/) - A discovery framework and hosting platform for [DARIAH](https://www.dariah.eu/) learning resources.
 
 ## Organizations & Research Infrastructures
 
@@ -70,3 +74,5 @@ This is a curated list of tools, resources, and services supporting the Digital 
 * [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
 
 * [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in German.
+
+* [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - A curated list of awesome things related to digital history.
