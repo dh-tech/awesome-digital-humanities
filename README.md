@@ -36,6 +36,8 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 * [#dariahTeach](https://teach.dariah.eu/) - An open-source, multilingual, community-driven platform for high-quality teaching and training materials for the digital arts and humanities. 
 
+* [DARIAH-CAMPUS](https://campus.dariah.eu/) - A discovery framework and hosting platform for [DARIAH](https://www.dariah.eu/) learning resources.
+
 ## Organizations & Research Infrastructures
 
 * [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
