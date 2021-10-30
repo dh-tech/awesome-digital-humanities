@@ -10,7 +10,7 @@ assignees: ''
 
 - [Example](http://example.com) - Description.
 
-**Ration**
+**Rationale for the change**
 
 Briefly and concisely explain why you want to change the list.
 
