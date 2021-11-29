@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Awesome DHTools
+description: Tools, resources, and services supporting the Digital Humanities.
+# logo: "/assets/images/just-the-docs.png"
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
