@@ -1,4 +1,4 @@
-# Awesome DHTools[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome DHTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-dhtools/)
 
@@ -166,4 +166,3 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
 - [Vistorian.online](https://vistorian.online/) - Interactive Visualizations for Dynamic and Multivariate Networks.
-- 
