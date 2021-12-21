@@ -164,5 +164,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
-- [The Vistorian](https://vistorian.net/) - Interactive Visualizations for Dynamic and Multivariate Networks.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
+- [Vistorian.online](https://vistorian.online/) - Interactive Visualizations for Dynamic and Multivariate Networks.
+- 
