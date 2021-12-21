@@ -160,6 +160,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
+- [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
