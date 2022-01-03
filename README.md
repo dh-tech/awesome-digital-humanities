@@ -1,4 +1,4 @@
-# Awesome DHTools[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome DHTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-dhtools/)
 
@@ -160,8 +160,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
+- [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
-- [The Vistorian](https://vistorian.net/) - Interactive Visualizations for Dynamic and Multivariate Networks.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
+- [Vistorian.online](https://vistorian.online/) - Interactive Visualizations for Dynamic and Multivariate Networks.
