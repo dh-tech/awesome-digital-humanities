@@ -142,6 +142,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history)
 - [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities)
 - [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities)
+- [Digital Humanities Women by @amandafrench](https://twitter.com/i/lists/81258446)
 
 ## User Guides and Training Materials
 
