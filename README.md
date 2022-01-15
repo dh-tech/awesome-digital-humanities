@@ -138,6 +138,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Twitter
 
+- [CH-Centren by @Mareike2405](https://twitter.com/i/lists/732799503221284864)
 - [DH-People by @Mareike2405](https://twitter.com/i/lists/900392225842049024)
 - [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history)
 - [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities)
