@@ -67,6 +67,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Annotation
 
+- [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
 
 ## Data Augmentation
