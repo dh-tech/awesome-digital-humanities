@@ -112,6 +112,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - A curated list of awesome things related to digital history.
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
+- [Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving) - Resources to archive the web.
 - [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
 - [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.
 - [DiRT (Digital Research Tools)](https://dirtdirectory.org/) - The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mind-mapping software.
