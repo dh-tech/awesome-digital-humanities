@@ -59,6 +59,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Extraction and Conversion
 
+- [Camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs.
 - [ImageMagick](https://imagemagick.org/) - Image conversion tool.
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
