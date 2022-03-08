@@ -55,7 +55,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - Free Software for your own Search Engine, Explorer for Discovery of large document collections, Media Monitoring, Text Analytics, Document Analysis & Text Mining platform based on Apache Solr or Elasticsearch open-source enterprise-search and Open Standards for Linked Data, Semantic Web & Linked Open Data integration.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
 - [Voyant](https://voyant-tools.org/) - Reading and analysis environment for digital texts.
-- [YouTube Metadata](https://mattw.io/youtube-metadata/)
+- [YouTube Metadata](https://mattw.io/youtube-metadata/) - It grabs singular details about a video and its uploader, playlist and its creator, or channel.
 
 ## Data Extraction and Conversion
 
@@ -77,13 +77,13 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## DH Centers
 
-- [Austrian Centre for Digital Humanities](https://www.oeaw.ac.at/acdh/)
-- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/)
-- [Digital Humanities Bern](https://www.dh.unibe.ch/)
-- [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/)
-- [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/fr/accueil/)
-- [Humanities + Design a Research Lab at Stanford University](http://hdlab.stanford.edu/)
-- [Laboratoire de cultures et humanités digitales de l'Université de Lausanne](https://www.unil.ch/ladhul/fr/home.html)
+- [ACDH-DH](https://www.oeaw.ac.at/acdh/) - Austrian Centre for Digital Humanities.
+- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, the dhCenter UNIL-EPFL is an interdisciplinary research platform.
+- [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
+- [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - The Digital Humanities is an interdisciplinary institution of the University of Basel.
+- [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
+- [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
+- [Ladhul dhCenter](https://www.unil.ch/ladhul/fr/home.html) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) - Research on new digital methods and tools for historical research and teaching.
 - [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) - Creators of Zotero and other amazing open-source software tools for historians.
 
@@ -104,7 +104,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
 - [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
 - [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
-- [DHCH](https://dh-ch.ch/)
+- [DHCH](https://dh-ch.ch/) - Interdisciplinary research in the digital humanities in Switzerland.
 - [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now is an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
 - [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
 
@@ -140,13 +140,13 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Twitter
 
-- [CH-Centren by @Mareike2405](https://twitter.com/i/lists/732799503221284864)
-- [DH-People by @Mareike2405](https://twitter.com/i/lists/900392225842049024)
-- [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history)
-- [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities)
-- [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities)
-- [Digital Humanities by @wpippich](https://twitter.com/i/lists/907641704949436416)
-- [Digital Humanities Women by @amandafrench](https://twitter.com/i/lists/81258446)
+- [CH-Centren by @Mareike2405](https://twitter.com/i/lists/732799503221284864) - List of DH centers by Mareike König.
+- [DH-People by @Mareike2405](https://twitter.com/i/lists/900392225842049024) - List of DH people by Mareike König.
+- [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history) - List of Digital History people by Moritz Mährg.
+- [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities) - List of Digital Humanities people by Martin Grandjean.
+- [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities) - List of Digital Humanities people by Norman Lippert.
+- [Digital Humanities by @wpippich](https://twitter.com/i/lists/907641704949436416) - List of Digital Humanities people by Waltraud von Pippich.
+- [Digital Humanities Women by @amandafrench](https://twitter.com/i/lists/81258446) - List of Digital Humanities women by Amanda French.
 
 ## User Guides and Training Materials
 
