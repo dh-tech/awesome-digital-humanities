@@ -154,6 +154,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [DARIAH-CAMPUS](https://campus.dariah.eu/) - A discovery framework and hosting platform for DARIAH learning resources.
 - [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
 - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
+- [Digital Humanities Theories and Practice](https://ltagliaferri.github.io/dh-rutgers-2022/) - Balancing practical guidance on tools and methodologies with modes for entering into the research of participants, the course will foster experimentation with and critical exploration of digital scholarship coupled with humanistic inquiry.
 - [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
 - [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
