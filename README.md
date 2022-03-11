@@ -51,6 +51,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Breve](http://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
 - [Data Pen](http://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
 - [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
+- [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/) - The LCM project pursues the development of an integrated research environment for the analysis of structured and unstructured data in a 'Software as a Service' architecture (SaaS). The research environment addresses requirements for the quantitative evaluation of large amounts of text data (e.g. 3 million news articles) using text mining methods and requirements for the reproducibility of data-driven research designs in the social sciences and the digital humanities.
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - Free Software for your own Search Engine, Explorer for Discovery of large document collections, Media Monitoring, Text Analytics, Document Analysis & Text Mining platform based on Apache Solr or Elasticsearch open-source enterprise-search and Open Standards for Linked Data, Semantic Web & Linked Open Data integration.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
