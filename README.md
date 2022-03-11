@@ -60,9 +60,12 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Extraction and Conversion
 
+- [Camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs.
 - [ImageMagick](https://imagemagick.org/) - Image conversion tool.
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
+- [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data.
+- [PD3F](https://pd3f.com/) - PDF text extraction pipeline that is self-hosted, local-first and Docker-based.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
 - [QPDF](http://qpdf.sourceforge.net/) - PDF toolkit.
 
