@@ -112,6 +112,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Other Resources
 
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - A curated list of awesome things related to digital history.
+- [Awesome OCR](https://github.com/kba/awesome-ocr) - This list contains links to great software tools and libraries and literature related to [Optical Character Recognition (OCR)](http://en.wikipedia.org/wiki/Optical_Character_Recognition).
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 - [Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving) - Resources to archive the web.
 - [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
