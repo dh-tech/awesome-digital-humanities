@@ -112,6 +112,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Other Resources
 
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - A curated list of awesome things related to digital history.
+- [Awesome OCR](https://github.com/kba/awesome-ocr) - This list contains links to great software tools and libraries and literature related to Optical Character Recognition (OCR).
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 - [Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving) - Resources to archive the web.
 - [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
@@ -120,6 +121,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Textuality Resource Pages](http://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages) - Inspired by Alan Liu's ToyChest, Kimberly Knight and her students at U. Texas (Dallas) keep in this repository a list of tools for text production, visualization, still image work, sound work, and video and animation; includes some student reviews of tools.
 - [Duke University's DH Tools catalog](https://digitalhumanities.duke.edu/tools) - This list includes tools that Duke supports and tools that have been used by Duke digital projects. Some of the tools are made specifically for DH and others that can be re-purposed quite effectively for Humanities research.
 - [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in German.
+- [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/) - A discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: tools, services, training materials, datasets, publications and workflows.
 - [TAPoR 3](http://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
 - [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
 
