@@ -48,6 +48,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Analysis
 
+- [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps.
 - [Breve](http://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
 - [Data Pen](http://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
 - [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
