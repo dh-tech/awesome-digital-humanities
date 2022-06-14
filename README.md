@@ -1,4 +1,4 @@
-# Awesome DHTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Digital Humanities [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-digital-humanities/)
 
