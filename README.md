@@ -2,7 +2,7 @@
 
 [<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-digital-humanities/)
 
-> Tools, resources, and services supporting the Digital Humanities.
+> Software for humanities scholars using quantitative or computational methods.
 
 This is a curated list of tools, resources, and services supporting the Digital Humanities. [Contributions](CONTRIBUTING.md) are welcome!
 
