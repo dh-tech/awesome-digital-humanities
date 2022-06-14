@@ -1,6 +1,6 @@
 # Awesome DHTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-dhtools/)
+[<img src="android-chrome-512x512.png" align="right" width="100">](https://github.com/dh-tech/awesome-digital-humanities/)
 
 > Tools, resources, and services supporting the Digital Humanities.
 
