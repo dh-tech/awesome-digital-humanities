@@ -14,7 +14,7 @@ project you agree to abide by its terms.
 
 ---
 
-  If you are proficient with GitHub, follow the instructions below. Otherwise open an [issue](https://github.com/dh-tech/awesome-dhtools/issues/new/choose).
+  If you are proficient with GitHub, follow the instructions below. Otherwise open an [issue](https://github.com/dh-tech/awesome-digital-humanities/issues/new/choose).
 
 ---
 
