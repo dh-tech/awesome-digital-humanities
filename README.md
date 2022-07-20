@@ -167,6 +167,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
 - [Introduction to Digital Humanities (DH101)](http://dh101.humanities.ucla.edu/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
 - [Missing Semester](https://missing.csail.mit.edu/) - Useful tools that are not taught in class.
+- [New Languages for NLP](https://new-languages-for-nlp.github.io/course-materials/intro.html) - Learn how to annotate linguistic data and train statistical language models using cutting-edge natural language processing (NLP) tools.
 - [PARTHENOS Training](https://training.parthenos-project.eu/) -  The PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
