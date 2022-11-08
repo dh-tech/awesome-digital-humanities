@@ -110,6 +110,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now is an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
 - [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
 - [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/) - The EHRI Portal enables online access to information about Holocaust sources, no matter where they are located. It also promotes innovative tools that advance the digital transformation of Holocaust research.
+- [European Research Infrastructure for Heritage Science (E-RIHS)](http://www.e-rihs.eu/) - It supports research on heritage interpretation, preservation, documentation and management.
 
 ## Other Resources
 
