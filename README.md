@@ -163,6 +163,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [#dariahTeach](https://teach.dariah.eu/) - An open-source, multilingual, community-driven platform for high-quality teaching and training materials for the digital arts and humanities.
 - [DARIAH-CAMPUS](https://campus.dariah.eu/) - A discovery framework and hosting platform for DARIAH learning resources.
 - [DH Tools for Beginners](https://medium.com/dh-tools-for-beginners) - A collection of tutorials about DH tools aiming at digital humanities researchers.
+- [Digital Editions Course](https://www.prisms.digital/training/) - The course covers the the whole process of creating a digital edition, from selecting a text right through to publication.
 - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 - [Digital Humanities Theories and Practice](https://ltagliaferri.github.io/dh-rutgers-2022/) - Balancing practical guidance on tools and methodologies with modes for entering into the research of participants, the course will foster experimentation with and critical exploration of digital scholarship coupled with humanistic inquiry.
 - [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
