@@ -39,6 +39,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Collection
 
+- [Data Commons](https://datacommons.org/) - Data Commons aggregates data from a [wide range of sources](https://docs.datacommons.org/datasets/) into a unified database to make it more accessible and useful.
 - [OpenArchive](https://open-archive.org/) - Making it easy to store, share, and amplify your mobile media while protecting your identity.
 - [Open EU Data Portal](https://data.europa.eu/euodp/en/data/) - European Union open data.
 - [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that harvests social media data and web resources from Twitter, Tumblr, Flickr, and Sina Weibo.
