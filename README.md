@@ -14,7 +14,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Data Analysis](#data-analysis)
 - [Data Extraction and Conversion](#data-extraction-and-conversion)
 - [Data Annotation](#data-annotation)
-- [Data Augmentation](#data-augmentation)
 - [DH Centers](#dh-centers)
 - [Document Management and Processing](#document-management-and-processing)
 - [Journals](#journals)
@@ -73,10 +72,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Annotation Studio](https://github.com/hyperstudio/Annotation-Studio) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
 - [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
-
-## Data Augmentation
-
-- [AutoCat](https://autocat.apps.allenai.org/) - Create simple text classification models online. Provided by the Allen Institute for AI (AI2).
 
 ## DH Centers
 
