@@ -14,7 +14,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Data Analysis](#data-analysis)
 - [Data Extraction and Conversion](#data-extraction-and-conversion)
 - [Data Annotation](#data-annotation)
-- [Data Augmentation](#data-augmentation)
 - [DH Centers](#dh-centers)
 - [Document Management and Processing](#document-management-and-processing)
 - [Journals](#journals)
@@ -70,13 +69,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Annotation
 
-- [Annotation Studio](https://app.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
+- [Annotation Studio](https://github.com/hyperstudio/Annotation-Studio) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
 - [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
-
-## Data Augmentation
-
-- [AutoCat](https://autocat.apps.allenai.org/) - Create simple text classification models online. Provided by the Allen Institute for AI (AI2).
 
 ## DH Centers
 
@@ -153,8 +148,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Twitter
 
-- [CH-Centren by @Mareike2405](https://twitter.com/i/lists/732799503221284864) - List of DH centers by Mareike König.
-- [DH-People by @Mareike2405](https://twitter.com/i/lists/900392225842049024) - List of DH people by Mareike König.
 - [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history) - List of Digital History people by Moritz Mährg.
 - [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities) - List of Digital Humanities people by Martin Grandjean.
 - [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities) - List of Digital Humanities people by Norman Lippert.
