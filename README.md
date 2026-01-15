@@ -59,6 +59,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
 - [Mallet](https://mimno.github.io/Mallet/) - Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - Free Software for your own Search Engine, Explorer for Discovery of large document collections, Media Monitoring, Text Analytics, Document Analysis & Text Mining platform based on Apache Solr or Elasticsearch open-source enterprise-search and Open Standards for Linked Data, Semantic Web & Linked Open Data integration.
+- [renoir](https://github.com/MichailSemoglou/renoir) - Python package for teaching computational color theory through art history. Extracts and analyzes artist-specific works from WikiArt with color palette extraction, harmony detection, and 17 progressive Jupyter notebooks for digital humanities education.
 - [Stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
 - [Voyant](https://voyant-tools.org/) - Reading and analysis environment for digital texts.
@@ -74,7 +75,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Annotation
 
-- [Annotation Studio](https://www.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
+- [Annotation Studio](https://www.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio.
 - [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
 - [Glycerine](https://glycerine.io/) - Provides a suite of IIIF image annotation tools and end-to-end workflows for researchers, curators and students to collaborate on projects across repositories and publish research ouputs.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
@@ -171,11 +172,11 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
-- [Introduction to Digital Humanities (DH101)](https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
+- [Introduction to Digital Humanities (DH101)](https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/) - Collection of resources/online coursebook based on the _Introduction to Digital Humanities (DH101)_ course at [UCLA](http://www.ucla.edu/).
 - [Jupyter Notebooks for Digital Humanities](https://github.com/quinnanya/dh-jupyter/blob/master/README.md) - A diverse range of Jupyter notebooks, comprising research materials, course content, Python tutorials, and specific analysis tools.
 - [Missing Semester](https://missing.csail.mit.edu/) - Useful tools that are not taught in class.
 - [New Languages for NLP](https://new-languages-for-nlp.github.io/course-materials/intro.html) - Learn how to annotate linguistic data and train statistical language models using cutting-edge natural language processing (NLP) tools.
-- [PARTHENOS Training](https://training.parthenos-project.eu/) -  The PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
+- [PARTHENOS Training](https://training.parthenos-project.eu/) - The PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
 ## Visualization
