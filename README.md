@@ -82,9 +82,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## DH Centers
 
 - [ACDH-DH](https://www.oeaw.ac.at/acdh/) - Austrian Centre for Digital Humanities.
-- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, the dhCenter UNIL-EPFL is an interdisciplinary research platform.
+- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, this interdisciplinary research platform connects digital humanities researchers across institutions.
 - [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
-- [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - The Digital Humanities is an interdisciplinary institution of the University of Basel.
+- [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
 - [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
 - [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
 - [Ladhul dhCenter](http://www.dhlausanne.ch/) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
@@ -93,7 +93,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Document Management and Processing
 
-- [Giles Ecosystem](https://diging.atlassian.net/wiki/spaces/GECO/overview) - The Giles Ecosystem is a distributed system based on Apache Kafka that allows users to upload documents for text and image extraction. It automatically performs OCR on uploaded images and extracts images and embedded texts from pdf files. The Giles Ecosystem can be easily scaled to accommodate higher workloads.
+- [Giles Ecosystem](https://diging.atlassian.net/wiki/spaces/GECO/overview) - A distributed system based on Apache Kafka that allows users to upload documents for text and image extraction. It automatically performs OCR on uploaded images and extracts images and embedded texts from pdf files. The system can be easily scaled to accommodate higher workloads.
 
 ## Journals
 
@@ -182,7 +182,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
-- [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks.
+- [Gephi](https://gephi.org/) - Leading visualization and exploration software for all kinds of graphs and networks.
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [RAWGraphs](https://rawgraphs.io/) - Open source, web-based tool for the visualization of complex data.
