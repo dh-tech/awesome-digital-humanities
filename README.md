@@ -40,7 +40,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Collection
 
-- [Data Commons](https://datacommons.org/) - Data Commons aggregates data from a [wide range of sources](https://docs.datacommons.org/datasets/) into a unified database to make it more accessible and useful.
+- [Data Commons](https://datacommons.org/) - Aggregates data from a [wide range of sources](https://docs.datacommons.org/datasets/) into a unified database to make it more accessible and useful.
 - [OpenArchive](https://open-archive.org/) - Making it easy to store, share, and amplify your mobile media while protecting your identity.
 - [Open EU Data Portal](https://data.europa.eu/euodp/en/data/) - European Union open data.
 - [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that harvests social media data and web resources from Twitter, Tumblr, Flickr, and Sina Weibo.
@@ -106,11 +106,11 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [CHAIN](https://mith.umd.edu/chain/) - Coalition of Humanities and Arts Infrastructures and Networks.
 - [CHCI](https://chcinetwork.org/) - Consortium of Humanities Centers and Institutes. Currently it has a membership of more than 250 organizations in the Americas, Europe, Africa, Asia, and Pacific Rim. Our members include humanities centers at small, medium, and large colleges and universities, community colleges, independent scholarly societies, research libraries, and other institutes of advanced study.
 - [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
-- [CLARIN](https://www.clarin.eu/) - CLARIN stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
+- [CLARIN](https://www.clarin.eu/) - Stands for "Common Language Resources and Technology Infrastructure". A research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
 - [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
 - [DHCH](https://dh-ch.ch/) - Interdisciplinary research in the digital humanities in Switzerland.
 - [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/) - Network of digital historians in academia and GLAM institutions in Switzerland with a fairly active mailing list.
-- [Digital Humanities Now](http://digitalhumanitiesnow.org/) - Digital Humanities Now is an experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
+- [Digital Humanities Now](http://digitalhumanitiesnow.org/) - An experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
 - [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/) - The EHRI Portal enables online access to information about Holocaust sources, no matter where they are located. It also promotes innovative tools that advance the digital transformation of Holocaust research.
 - [European Research Infrastructure for Heritage Science (E-RIHS)](http://www.e-rihs.eu/) - It supports research on heritage interpretation, preservation, documentation and management.
 - [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
