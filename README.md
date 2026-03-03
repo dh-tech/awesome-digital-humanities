@@ -28,6 +28,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Bibliography and Sources Management
 
+- [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago). Available as web app, Chrome extension, Google Docs add-on, and Word add-in.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Tropy](https://tropy.org/) - Research Photo Management.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
