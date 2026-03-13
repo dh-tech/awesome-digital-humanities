@@ -142,6 +142,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Perspectives on History](https://www.historians.org/community-careers/digital-history-resources/) - The newsmagazine of the American Historical Association.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - Collaborative Digital History.
 - [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - Digital history is the use of digital media to further historical analysis, presentation, and research.
+- [FoJin](https://github.com/xr843/fojin) - Open-source Buddhist digital text platform aggregating 440+ sources across 30 languages. Features full-text search, knowledge graph, AI Q&A, dictionary lookup, and parallel reading.
 
 ## Publishing
 
