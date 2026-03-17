@@ -138,6 +138,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Platforms
 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - Slack channels for digital humanities scholars.
+- [FoJin](https://github.com/xr843/fojin) - Open-source platform aggregating 440+ Buddhist text databases across 30 languages with AI Q&A, knowledge graph, and parallel reading.
 - [HSS Digital](https://hssonline.org/page/digitalprojects) - Digital scholarship in the history of science initiative.
 - [Perspectives on History](https://www.historians.org/community-careers/digital-history-resources/) - The newsmagazine of the American Historical Association.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - Collaborative Digital History.
