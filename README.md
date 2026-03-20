@@ -135,6 +135,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [TAPoR 3](http://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
 - [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](https://tadirah.info/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
 
+- [Taiwan.md](https://taiwan.md) - Open-source, AI-friendly knowledge base about Taiwan with 400+ structured Markdown articles across 12 categories, bilingual (zh/en), knowledge graph, and API. ([GitHub](https://github.com/frank890417/taiwan-md))
 ## Platforms
 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - Slack channels for digital humanities scholars.
