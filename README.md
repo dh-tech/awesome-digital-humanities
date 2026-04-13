@@ -37,6 +37,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [AntConc](https://www.laurenceanthony.net/software/antconc/) - A freeware corpus analysis toolkit for concordancing and text analysis.
 - [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
+- [RunoVerse](https://runoverse.org/) - Digital explorer for 439,746 lemmas from Finnish and Estonian runosong (oral poetry) corpora, with similarity analysis, emotional geography, dictionary comparison, and 70+ analytical tools.
 - [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) - The project brings together open-source Textometry software developments to set up a modular platform called TXM, in synergy with existing corpus technologies (Unicode, XML, TEI, NLP tools, CQP, R).
 
 ## Data Collection
