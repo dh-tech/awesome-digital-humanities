@@ -101,6 +101,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Journals
 
 - [Current Research in Digital History](http://crdh.rrchnm.org/) - Annual open-access, peer-reviewed publication of the Roy Rosenzweig Center for History and New Media at George Mason University.
+- [Journal of Cultural Analytics](https://culturalanalytics.org/) - Open-access, peer-reviewed publication for the computational study of cultural artifacts with a primary in the humanities and computational humanities. Published by McGill from 2016-2025; since 2026, published by the Center for Digital Humanities at Princeton University.
 
 ## Organizations and Research Infrastructures
 
