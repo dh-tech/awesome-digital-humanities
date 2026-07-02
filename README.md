@@ -72,6 +72,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [ImageMagick](https://imagemagick.org/) - Image conversion tool.
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
+- [PDF 2 EPUB](https://toolkit.bot/pdf2epub) - Converts PDFs to reflowable EPUB3 with WCAG 2.2 AA accessibility compliance and OCR support.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
 - [QPDF](http://qpdf.sourceforge.net/) - PDF toolkit.
 
