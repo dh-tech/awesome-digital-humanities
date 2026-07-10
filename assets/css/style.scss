@@ -1,7 +1,45 @@
 ---
 ---
 
-@import url('https://fonts.cdnfonts.com/css/metropolis-2');
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Metropolis Light'), local('Metropolis-Light'),
+       url('../fonts/Metropolis-Light.woff2') format('woff2'),
+       url('../fonts/Metropolis-Light.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Metropolis Regular'), local('Metropolis-Regular'),
+       url('../fonts/Metropolis-Regular.woff2') format('woff2'),
+       url('../fonts/Metropolis-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Metropolis Medium'), local('Metropolis-Medium'),
+       url('../fonts/Metropolis-Medium.woff2') format('woff2'),
+       url('../fonts/Metropolis-Medium.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Metropolis Bold'), local('Metropolis-Bold'),
+       url('../fonts/Metropolis-Bold.woff2') format('woff2'),
+       url('../fonts/Metropolis-Bold.woff') format('woff');
+  font-display: swap;
+}
 
 :root {
   --color-bg: #f7f9fb;
