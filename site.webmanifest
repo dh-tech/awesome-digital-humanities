@@ -1,1 +1,21 @@
-{"name":"","short_name":"","icons":[{"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],"theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"}
+{
+  "name": "Awesome Digital Humanities",
+  "short_name": "Awesome DH",
+  "description": "A curated list of tools, resources, and services supporting the Digital Humanities.",
+  "icons": [
+    {
+      "src": "/awesome-digital-humanities/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/awesome-digital-humanities/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0077b8",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/awesome-digital-humanities/"
+}

@@ -4,7 +4,7 @@
 
 > Software for humanities scholars using quantitative or computational methods.
 
-This is a curated list of tools, resources, and services supporting the Digital Humanities. [Contributions](CONTRIBUTING.md) are welcome!
+This is a curated list of tools, resources, and services supporting the Digital Humanities. [Contributions](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CONTRIBUTING.md) are welcome!
 
 ## Contents
 
@@ -112,7 +112,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [CHAIN](https://mith.umd.edu/chain/) - Coalition of Humanities and Arts Infrastructures and Networks.
 - [CHCI](https://chcinetwork.org/) - Consortium of Humanities Centers and Institutes. Currently it has a membership of more than 250 organizations in the Americas, Europe, Africa, Asia, and Pacific Rim. Our members include humanities centers at small, medium, and large colleges and universities, community colleges, independent scholarly societies, research libraries, and other institutes of advanced study.
 - [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
-- [CLARIN](https://www.clarin.eu/) - Stands for "Common Language Resources and Technology Infrastructure". A research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
+- [CLARIN](https://www.clarin.eu/) - Stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
 - [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
 - [DHCH](https://dh-ch.ch/) - Interdisciplinary research in the digital humanities in Switzerland.
 - [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/) - Network of digital historians in academia and GLAM institutions in Switzerland with a fairly active mailing list.
