@@ -1,6 +1,27 @@
-theme: jekyll-theme-minimal
 title: Awesome Digital Humanities
-description: Tools, resources, and services supporting the Digital Humanities.
-# logo: "/assets/images/just-the-docs.png"
-show_downloads: false
-# google_analytics: [Your Google Analytics tracking ID]
+tagline: Software for humanities scholars using quantitative or computational methods.
+description: A curated list of tools, resources, services, organizations, training materials, and research infrastructures supporting the Digital Humanities.
+lang: en-US
+url: https://dh-tech.github.io
+baseurl: /awesome-digital-humanities
+repository: dh-tech/awesome-digital-humanities
+logo: /assets/images/dhtech-logo.svg
+
+author:
+  name: DHTech
+  url: https://github.com/dh-tech
+
+social:
+  name: DHTech
+  links:
+    - https://github.com/dh-tech
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /android-chrome-512x512.png
