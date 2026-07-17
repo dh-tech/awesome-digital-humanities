@@ -41,6 +41,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Collection
 
+- [AtlasPI](https://atlaspi.it) - Open REST API and MCP server for historical geography: 1000+ polities with real GeoJSON borders, events, dynastic chains, cities and trade routes (4500 BCE-2024), with cited sources, confidence scores and explicit ethical framing (original-language names; conquests and genocides named). Apache-2.0, no API key.
 - [Data Commons](https://datacommons.org/) - Aggregates data from a [wide range of sources](https://docs.datacommons.org/datasets/) into a unified database to make it more accessible and useful.
 - [OpenArchive](https://open-archive.org/) - Making it easy to store, share, and amplify your mobile media while protecting your identity.
 - [Open EU Data Portal](https://data.europa.eu/euodp/en/data/) - European Union open data.
