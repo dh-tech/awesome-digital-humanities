@@ -159,7 +159,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Twitter
 
-- [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history) - List of Digital History people by Moritz Mährg.
+- [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history) - List of Digital History people by Moritz Mähr.
 - [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities) - List of Digital Humanities people by Martin Grandjean.
 - [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities) - List of Digital Humanities people by Norman Lippert.
 - [Digital Humanities by @wpippich](https://twitter.com/i/lists/907641704949436416) - List of Digital Humanities people by Waltraud von Pippich.
