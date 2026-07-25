@@ -74,6 +74,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
 - [QPDF](http://qpdf.sourceforge.net/) - PDF toolkit.
+- [ScribeTools](https://scribetools.com/) - Arabic-first document conversion for difficult non-Latin scans, with editable DOCX, searchable PDF, spreadsheet, translation, and EPUB outputs.
 
 ## Data Annotation
 
