@@ -65,6 +65,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
 - [Voyant](https://voyant-tools.org/) - Reading and analysis environment for digital texts.
+- [foxue.ai](https://www.foxue.ai) - Open-source multilingual research platform for Buddhist texts with paragraph-level citations across Pali, Chinese, Sanskrit, and Tibetan scriptures.
 - [YouTube Metadata](https://mattw.io/youtube-metadata/) - It grabs singular details about a video and its uploader, playlist and its creator, or channel.
 
 ## Data Extraction and Conversion
