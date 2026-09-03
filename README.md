@@ -104,6 +104,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Computational Humanities Research](https://www.cambridge.org/core/journals/computational-humanities-research) - Open access, peer-reviewed journal published by Cambridge University Press; founded in 2024.
 - [Current Research in Digital History](http://crdh.rrchnm.org/) - Annual open-access, peer-reviewed publication of the Roy Rosenzweig Center for History and New Media at George Mason University.
 - [Journal of Cultural Analytics](https://culturalanalytics.org/) - Open-access, peer-reviewed publication for the computational study of cultural artifacts with a primary in the humanities and computational humanities. Published by McGill from 2016-2025; since 2026, published by the Center for Digital Humanities at Princeton University.
+- [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/) - Open-access, peer-reviewed journal publishing data papers that describe humanities research objects, datasets, and techniques with high potential for reuse. Published by Ubiquity Press since 2015.
 
 ## Organizations and Research Infrastructures
 
