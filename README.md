@@ -144,6 +144,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - Slack channels for digital humanities scholars.
 - [HSS Digital](https://hssonline.org/page/digitalprojects) - Digital scholarship in the history of science initiative.
 - [Perspectives on History](https://www.historians.org/community-careers/digital-history-resources/) - The newsmagazine of the American Historical Association.
+- [RuShiWoWen](https://rushiwowen.co/en) - Multilingual reading and search platform for the CBETA Chinese Buddhist text corpus, with stable text links, annotations, and AI-assisted English and Japanese renderings.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - Collaborative Digital History.
 - [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - Digital history is the use of digital media to further historical analysis, presentation, and research.
 
