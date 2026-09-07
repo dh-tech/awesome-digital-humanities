@@ -178,6 +178,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
+- [Introduction to Digital Humanities (Bern)](https://dhbern.github.io/introduction-to-dh/contents/home.html) - Open course materials of the [University of Bern](https://www.unibe.ch/) that cover data modeling, Linked Open Data, data publication, text, network and geospatial analysis, machine learning, and sustainability. No prior programming knowledge is required.
 - [Introduction to Digital Humanities (DH101)](https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/) - Collection of resources/online coursebook based on the _Introduction to Digital Humanities (DH101)_ course at [UCLA](http://www.ucla.edu/).
 - [Jupyter Notebooks for Digital Humanities](https://github.com/quinnanya/dh-jupyter/blob/master/README.md) - A diverse range of Jupyter notebooks, comprising research materials, course content, Python tutorials, and specific analysis tools.
 - [Missing Semester](https://missing.csail.mit.edu/) - Useful tools that are not taught in class.
