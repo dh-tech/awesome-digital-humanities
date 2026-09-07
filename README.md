@@ -91,7 +91,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
 - [HDLab](https://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
 - [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
-- [Ladhul dhCenter](http://www.dhlausanne.ch/) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
+- [Ladhul dhCenter](https://iris.unil.ch/handle/iris/209) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) - Research on new digital methods and tools for historical research and teaching.
 - [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) - Creators of Zotero and other amazing open-source software tools for historians.
 
