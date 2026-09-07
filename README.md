@@ -48,7 +48,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Trafilatura](https://trafilatura.readthedocs.io/) - Open source software to gather text and metadata on the Web: Crawling, scraping, extraction, output in multiple formats. Usable with Python, R and on the command-line.
 - [Transkribus](https://transkribus.eu/) - Transcribe. Collaborate. Share and benefit from cutting edge research in Handwritten Text Recognition!
 - [Textgrid](https://textgrid.de/) - Open source tools and services support humanistic scholars during the entire process of research, especially in digital scholarly editing.
-- [webrecorder.io](https://webrecorder.io/) - Web archiving service anyone can use for free to save web pages.
+- [Webrecorder](https://webrecorder.net/) - Web archiving service to save web pages.
 
 ## Data Analysis
 
