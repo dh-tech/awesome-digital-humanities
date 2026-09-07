@@ -36,7 +36,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Corpus linguistics
 
 - [AntConc](https://www.laurenceanthony.net/software/antconc/) - A freeware corpus analysis toolkit for concordancing and text analysis.
-- [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
+- [CorpusExplorer v2.0](https://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
 - [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) - The project brings together open-source Textometry software developments to set up a modular platform called TXM, in synergy with existing corpus technologies (Unicode, XML, TEI, NLP tools, CQP, R).
 
 ## Data Collection
@@ -53,9 +53,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Data Analysis
 
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps.
-- [Breve](http://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
-- [Data Pen](http://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
-- [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
+- [Breve](https://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
+- [Data Pen](https://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
+- [DocFetcher](https://docfetcher.sourceforge.net/) - Open Source desktop search application.
 - [IntellyWeave](https://github.com/vericle/intellyweave) - Open-source platform for humanities research featuring AI-powered entity extraction (persons, organizations, locations, dates, events), semantic search across document collections, geospatial visualization for historical events, and archive research agents with 30+ curated international sources.
 - [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/) - The LCM project pursues the development of an integrated research environment for the analysis of structured and unstructured data in a 'Software as a Service' architecture (SaaS). The research environment addresses requirements for the quantitative evaluation of large amounts of text data (e.g. 3 million news articles) using text mining methods and requirements for the reproducibility of data-driven research designs in the social sciences and the digital humanities.
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
@@ -73,7 +73,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
-- [QPDF](http://qpdf.sourceforge.net/) - PDF toolkit.
+- [QPDF](https://qpdf.sourceforge.net/) - PDF toolkit.
 
 ## Data Annotation
 
@@ -89,7 +89,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [dhelta UNIL-EPFL](https://www.epfl.ch/schools/ic/education/master/digital-humanities/dhelta-unil-epfl/) - Joint association of EPFL and UNIL fostering collaboration, knowledge sharing, and student integration in Digital Humanities.
 - [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
-- [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
+- [HDLab](https://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
 - [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
 - [Ladhul dhCenter](http://www.dhlausanne.ch/) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) - Research on new digital methods and tools for historical research and teaching.
@@ -174,7 +174,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 - [Digital Humanities Theories and Practice](https://ltagliaferri.github.io/dh-rutgers-2022/) - Balancing practical guidance on tools and methodologies with modes for entering into the research of participants, the course will foster experimentation with and critical exploration of digital scholarship coupled with humanistic inquiry.
 - [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
-- [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
+- [Framework for Information Literacy for Higher Education](https://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
 - [Introduction to Digital Humanities (Bern)](https://dhbern.github.io/introduction-to-dh/contents/home.html) - Open course materials of the [University of Bern](https://www.unibe.ch/) that cover data modeling, Linked Open Data, data publication, text, network and geospatial analysis, machine learning, and sustainability. No prior programming knowledge is required.
@@ -191,7 +191,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [RAWGraphs](https://rawgraphs.io/) - Open source, web-based tool for the visualization of complex data.
-- [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
+- [StorylineJS](https://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
 - [Vistorian.online](https://vistorian.github.io/) - Interactive Visualizations for Dynamic and Multivariate Networks.
