@@ -36,7 +36,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Corpus linguistics
 
 - [AntConc](https://www.laurenceanthony.net/software/antconc/) - A freeware corpus analysis toolkit for concordancing and text analysis.
-- [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
+- [CorpusExplorer v2.0](https://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
 - [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) - The project brings together open-source Textometry software developments to set up a modular platform called TXM, in synergy with existing corpus technologies (Unicode, XML, TEI, NLP tools, CQP, R).
 
 ## Data Collection
@@ -48,14 +48,14 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Trafilatura](https://trafilatura.readthedocs.io/) - Open source software to gather text and metadata on the Web: Crawling, scraping, extraction, output in multiple formats. Usable with Python, R and on the command-line.
 - [Transkribus](https://transkribus.eu/) - Transcribe. Collaborate. Share and benefit from cutting edge research in Handwritten Text Recognition!
 - [Textgrid](https://textgrid.de/) - Open source tools and services support humanistic scholars during the entire process of research, especially in digital scholarly editing.
-- [webrecorder.io](https://webrecorder.io/) - Web archiving service anyone can use for free to save web pages.
+- [Webrecorder](https://webrecorder.net/) - Web archiving service to save web pages.
 
 ## Data Analysis
 
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps.
-- [Breve](http://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
-- [Data Pen](http://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
-- [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
+- [Breve](https://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
+- [Data Pen](https://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
+- [DocFetcher](https://docfetcher.sourceforge.net/) - Open Source desktop search application.
 - [IntellyWeave](https://github.com/vericle/intellyweave) - Open-source platform for humanities research featuring AI-powered entity extraction (persons, organizations, locations, dates, events), semantic search across document collections, geospatial visualization for historical events, and archive research agents with 30+ curated international sources.
 - [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/) - The LCM project pursues the development of an integrated research environment for the analysis of structured and unstructured data in a 'Software as a Service' architecture (SaaS). The research environment addresses requirements for the quantitative evaluation of large amounts of text data (e.g. 3 million news articles) using text mining methods and requirements for the reproducibility of data-driven research designs in the social sciences and the digital humanities.
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
@@ -73,7 +73,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
-- [QPDF](http://qpdf.sourceforge.net/) - PDF toolkit.
+- [QPDF](https://qpdf.sourceforge.net/) - PDF toolkit.
 
 ## Data Annotation
 
@@ -86,12 +86,12 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [ACDH-DH](https://www.oeaw.ac.at/acdh/) - Austrian Centre for Digital Humanities.
 - [CDH Princeton](https://cdh.princeton.edu/) - Center for Digital Humanities at Princeton University.
-- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, this interdisciplinary research platform connects digital humanities researchers across institutions.
+- [dhelta UNIL-EPFL](https://www.epfl.ch/schools/ic/education/master/digital-humanities/dhelta-unil-epfl/) - Joint association of EPFL and UNIL fostering collaboration, knowledge sharing, and student integration in Digital Humanities.
 - [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
-- [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
+- [HDLab](https://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
 - [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
-- [Ladhul dhCenter](http://www.dhlausanne.ch/) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
+- [Ladhul dhCenter](https://iris.unil.ch/handle/iris/209) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) - Research on new digital methods and tools for historical research and teaching.
 - [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) - Creators of Zotero and other amazing open-source software tools for historians.
 
@@ -102,25 +102,24 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Journals
 
 - [Computational Humanities Research](https://www.cambridge.org/core/journals/computational-humanities-research) - Open access, peer-reviewed journal published by Cambridge University Press; founded in 2024.
-- [Current Research in Digital History](http://crdh.rrchnm.org/) - Annual open-access, peer-reviewed publication of the Roy Rosenzweig Center for History and New Media at George Mason University.
+- [Current Research in Digital History](https://crdh.rrchnm.org/) - Annual open-access, peer-reviewed publication of the Roy Rosenzweig Center for History and New Media at George Mason University.
 - [Journal of Cultural Analytics](https://culturalanalytics.org/) - Open-access, peer-reviewed publication for the computational study of cultural artifacts with a primary in the humanities and computational humanities. Published by McGill from 2016-2025; since 2026, published by the Center for Digital Humanities at Princeton University.
 - [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/) - Open-access, peer-reviewed journal publishing data papers that describe humanities research objects, datasets, and techniques with high potential for reuse. Published by Ubiquity Press since 2015.
 
 ## Organizations and Research Infrastructures
 
-- [ACH](http://ach.org/) - Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.
-- [ADHO](http://adho.org/) - The Alliance of Digital Humanities Organizations (ADHO) promotes and supports digital research and teaching across all arts and humanities disciplines, acting as a community-based advisory force, and supporting excellence in research, publication, collaboration and training.
+- [ACH](https://ach.org/) - Association for Computers and the Humanities (ACH) is a major professional society for the digital humanities. We support and disseminate research and cultivate a vibrant professional community through conferences, publications, and outreach activities.
+- [ADHO](https://adho.org/) - The Alliance of Digital Humanities Organizations (ADHO) promotes and supports digital research and teaching across all arts and humanities disciplines, acting as a community-based advisory force, and supporting excellence in research, publication, collaboration and training.
 - [CHAIN](https://mith.umd.edu/chain/) - Coalition of Humanities and Arts Infrastructures and Networks.
 - [CHCI](https://chcinetwork.org/) - Consortium of Humanities Centers and Institutes. Currently it has a membership of more than 250 organizations in the Americas, Europe, Africa, Asia, and Pacific Rim. Our members include humanities centers at small, medium, and large colleges and universities, community colleges, independent scholarly societies, research libraries, and other institutes of advanced study.
-- [centerNet](http://dhcenternet.org/) - An international network of digital humanities centers.
+- [centerNet](https://dhcenternet.org/) - An international network of digital humanities centers.
 - [CLARIN](https://www.clarin.eu/) - Stands for "Common Language Resources and Technology Infrastructure". It is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through a single sign-on online environment for the support of researchers in the humanities and social sciences.
 - [DARIAH](https://www.dariah.eu/) - The Digital Research Infrastructure for the Arts and Humanities (DARIAH) aims to enhance and support digitally-enabled research and teaching across the arts and humanities. DARIAH is a network of people, expertise, information, knowledge, content, methods, tools and technologies from its member countries. It develops, maintains and operates an infrastructure in support of ICT-based research practices and sustains researchers in using them to build, analyse and interpret digital resources.
 - [DHCH](https://dh-ch.ch/) - Interdisciplinary research in the digital humanities in Switzerland.
 - [Digital History Network Switzerland](https://www.digitalhistorynetwork.ch/) - Network of digital historians in academia and GLAM institutions in Switzerland with a fairly active mailing list.
-- [Digital Humanities Now](http://digitalhumanitiesnow.org/) - An experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
+- [Digital Humanities Now](https://digitalhumanitiesnow.org/) - An experimental, edited publication that highlights and distributes informally published digital humanities scholarship and resources from the open web.
 - [European Holocaust Research Infrastructure (EHRI)](https://www.ehri-project.eu/) - The EHRI Portal enables online access to information about Holocaust sources, no matter where they are located. It also promotes innovative tools that advance the digital transformation of Holocaust research.
-- [European Research Infrastructure for Heritage Science (E-RIHS)](http://www.e-rihs.eu/) - It supports research on heritage interpretation, preservation, documentation and management.
-- [GO::DH](http://www.globaloutlookdh.org/) - The purpose of Global Outlook::Digital Humanities (GO::DH) is to help break down barriers that hinder communication and collaboration among researchers and students of the Digital Arts, Humanities, and Cultural Heritage sectors in high, mid, and low income economies.
+- [European Research Infrastructure for Heritage Science (E-RIHS)](https://www.e-rihs.eu/) - It supports research on heritage interpretation, preservation, documentation and management.
 
 ## Other Resources
 
@@ -129,14 +128,13 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Awesome OCR](https://github.com/kba/awesome-ocr) - This list contains links to great software tools and libraries and literature related to Optical Character Recognition (OCR).
 - [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) - A curated list of awesome tools, demos and resources to go beyond LaTeX.
 - [Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving) - Resources to archive the web.
-- [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
-- [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.
-- [Digital Textuality Resource Pages](http://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages) - Inspired by Alan Liu's ToyChest, Kimberly Knight and her students at U. Texas (Dallas) keep in this repository a list of tools for text production, visualization, still image work, sound work, and video and animation; includes some student reviews of tools.
+- [DH Toychest](https://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](https://liu.english.ucsb.edu/), University of California, Santa Barbara.
+- [Digital Textuality Resource Pages](https://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages) - Inspired by Alan Liu's ToyChest, Kimberly Knight and her students at U. Texas (Dallas) keep in this repository a list of tools for text production, visualization, still image work, sound work, and video and animation; includes some student reviews of tools.
 - [Duke University's DH Tools catalog](https://digitalhumanities.duke.edu/tools) - This list includes tools that Duke supports and tools that have been used by Duke digital projects. Some of the tools are made specifically for DH and others that can be re-purposed quite effectively for Humanities research.
 - [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in German.
 - [GLAMS Workbench](https://glam-workbench.net/) - A collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time.
 - [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/) - A discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: tools, services, training materials, datasets, publications and workflows.
-- [TAPoR 3](http://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
+- [TAPoR 3](https://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
 - [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](https://tadirah.info/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
 
 ## Platforms
@@ -175,15 +173,13 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 - [Digital Humanities Theories and Practice](https://ltagliaferri.github.io/dh-rutgers-2022/) - Balancing practical guidance on tools and methodologies with modes for entering into the research of participants, the course will foster experimentation with and critical exploration of digital scholarship coupled with humanistic inquiry.
 - [forText](https://fortext.net) - Collection of german tutorials for the interpretation and visualization of literature.
-- [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
+- [Framework for Information Literacy for Higher Education](https://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
 - [Introduction to Digital Humanities (Bern)](https://dhbern.github.io/introduction-to-dh/contents/home.html) - Open course materials of the [University of Bern](https://www.unibe.ch/) that cover data modeling, Linked Open Data, data publication, text, network and geospatial analysis, machine learning, and sustainability. No prior programming knowledge is required.
-- [Introduction to Digital Humanities (DH101)](https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/) - Collection of resources/online coursebook based on the _Introduction to Digital Humanities (DH101)_ course at [UCLA](http://www.ucla.edu/).
 - [Jupyter Notebooks for Digital Humanities](https://github.com/quinnanya/dh-jupyter/blob/master/README.md) - A diverse range of Jupyter notebooks, comprising research materials, course content, Python tutorials, and specific analysis tools.
 - [Missing Semester](https://missing.csail.mit.edu/) - Useful tools that are not taught in class.
 - [New Languages for NLP](https://new-languages-for-nlp.github.io/course-materials/intro.html) - Learn how to annotate linguistic data and train statistical language models using cutting-edge natural language processing (NLP) tools.
-- [PARTHENOS Training](https://training.parthenos-project.eu/) - The PARTHENOS cluster of humanities research infrastructure projects has devised a series of training modules and resources for those who want to learn more about research infrastructures in the Digital Humanities. Contains material about research infrastructures, research data, existing digital collections of use to researchers, guides to ontologies and a catalogue of webinars and training material.
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
 ## Visualization
@@ -194,7 +190,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [RAWGraphs](https://rawgraphs.io/) - Open source, web-based tool for the visualization of complex data.
-- [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
+- [StorylineJS](https://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
 - [Vistorian.online](https://vistorian.github.io/) - Interactive Visualizations for Dynamic and Multivariate Networks.
