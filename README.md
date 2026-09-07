@@ -86,7 +86,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [ACDH-DH](https://www.oeaw.ac.at/acdh/) - Austrian Centre for Digital Humanities.
 - [CDH Princeton](https://cdh.princeton.edu/) - Center for Digital Humanities at Princeton University.
-- [DHCenter UNIL-EPFL](https://dhcenter-unil-epfl.com/) - Founded in 2018, this interdisciplinary research platform connects digital humanities researchers across institutions.
+- [dhelta UNIL-EPFL](https://www.epfl.ch/schools/ic/education/master/digital-humanities/dhelta-unil-epfl/) - Joint association of EPFL and UNIL fostering collaboration, knowledge sharing, and student integration in Digital Humanities.
 - [Digital Humanities Bern](https://www.dh.unibe.ch/) - It explores different topics, in the context of digital text and image analysis, digital edition, and reflection on the impact of digital methods on the humanities.
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - An interdisciplinary institution of the University of Basel.
 - [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
