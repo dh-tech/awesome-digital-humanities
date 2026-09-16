@@ -30,6 +30,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Bibliography and Sources Management
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+- [SixSentences](https://github.com/SixSentences/sixsentences) - Self-hostable research workspace covering scholarly search, a deduplicated source library with screening decisions recorded, research data analysis, interviews, and manuscript writing, keeping each source and transformation inspectable.
 - [Tropy](https://tropy.org/) - Research Photo Management.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
 
