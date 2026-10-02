@@ -54,6 +54,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [Allmaps](https://allmaps.org/) - Curating, georeferencing and exploring for IIIF maps.
 - [Breve](https://hdlab.stanford.edu/breve/) - Visualize and edit tabular data.
+- [Cipher Lab](https://github.com/lessthanzero/cipher-lab) - Reproducible computational cryptanalysis infrastructure, epistemic ledgering, and statistical gating for historical ciphers and liturgical codebooks.
 - [Data Pen](https://hdlab.stanford.edu/data-pen/) - Framework for humanities researchers to access, explore, and manipulate multidimensional historical data.
 - [DocFetcher](https://docfetcher.sourceforge.net/) - Open Source desktop search application.
 - [IntellyWeave](https://github.com/vericle/intellyweave) - Open-source platform for humanities research featuring AI-powered entity extraction (persons, organizations, locations, dates, events), semantic search across document collections, geospatial visualization for historical events, and archive research agents with 30+ curated international sources.
