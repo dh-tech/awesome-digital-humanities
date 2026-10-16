@@ -65,6 +65,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
 - [Voyant](https://voyant-tools.org/) - Reading and analysis environment for digital texts.
+- [Yigezi](https://ivan666jjj.github.io/yigezi/) - Look up any Chinese character and see its full graphic history — oracle bone, bronze, seal, clerical, regular and simplified — with Middle Chinese fanqie, Old Chinese reconstructions and its Shuowen Jiezi definition.
 - [YouTube Metadata](https://mattw.io/youtube-metadata/) - It grabs singular details about a video and its uploader, playlist and its creator, or channel.
 
 ## Data Extraction and Conversion
