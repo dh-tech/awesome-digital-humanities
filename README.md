@@ -98,6 +98,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Document Management and Processing
 
 - [Giles Ecosystem](https://diging.atlassian.net/wiki/spaces/GECO/overview) - A distributed system based on Apache Kafka that allows users to upload documents for text and image extraction. It automatically performs OCR on uploaded images and extracts images and embedded texts from pdf files. The system can be easily scaled to accommodate higher workloads.
+- [Historical Danish HTR](https://huggingface.co/abhishekjha1008) - Open handwritten text recognition tools for historical Danish and Nordic documents: domain-adapted line segmenters (YOLO + kraken), a 160,000-line synthetic training set, and a live demo, on the Hugging Face Hub.
 
 ## Journals
 
