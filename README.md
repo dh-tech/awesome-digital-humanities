@@ -74,6 +74,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
 - [Poppler](https://poppler.freedesktop.org/) - PDF toolkit.
 - [QPDF](https://qpdf.sourceforge.net/) - PDF toolkit.
+- [Yap Audio to Text](https://yapapp.cc/audio-to-text) - Free browser tool that transcribes interview and oral history recordings (audio or video) to text and SRT/VTT subtitles without uploading the files.
 
 ## Data Annotation
 
