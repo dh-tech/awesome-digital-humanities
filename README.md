@@ -61,6 +61,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
 - [Mallet](https://mimno.github.io/Mallet/) - Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - Free Software for your own Search Engine, Explorer for Discovery of large document collections, Media Monitoring, Text Analytics, Document Analysis & Text Mining platform based on Apache Solr or Elasticsearch open-source enterprise-search and Open Standards for Linked Data, Semantic Web & Linked Open Data integration.
+- [PewTranslate Census Language Lookup](https://pewtranslate.com/en/guides/languages-spoken-by-zip-code) - Browser lookup of ACS language-at-home estimates and margins of error for US and Puerto Rico ZCTAs and counties.
 - [renoir](https://github.com/MichailSemoglou/renoir) - Python package for teaching computational color theory through art history. Extracts and analyzes artist-specific works from WikiArt with color palette extraction, harmony detection, and 17 progressive Jupyter notebooks for digital humanities education.
 - [Stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
