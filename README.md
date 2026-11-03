@@ -142,6 +142,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - Slack channels for digital humanities scholars.
 - [HSS Digital](https://hssonline.org/page/digitalprojects) - Digital scholarship in the history of science initiative.
+- [Islam Museum](https://islam.museum) - A free digital museum of Islamic history with 46,793 sourced entries (people, places, events, ideas and objects) in Arabic, English and Urdu, published as an open knowledge graph; data CC0.
 - [Perspectives on History](https://www.historians.org/community-careers/digital-history-resources/) - The newsmagazine of the American Historical Association.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - Collaborative Digital History.
 - [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - Digital history is the use of digital media to further historical analysis, presentation, and research.
