@@ -1,6 +1,12 @@
 name: Greetings
 
-on: [pull_request, issues]
+on:
+  issues:
+    types: [opened]
+  # pull_request_target gives fork pull requests a token that can comment.
+  # This workflow never checks out or runs pull request code.
+  pull_request_target:
+    types: [opened]
 
 permissions:
   issues: write
@@ -12,6 +18,13 @@ jobs:
     steps:
       - uses: actions/first-interaction@v3
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: 'Hi there! Thanks for opening your first issue!'
-          pr-message: 'Hi there! Thanks for opening your first pull request!'
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_message: |
+            Thank you for your first issue.
+            To add a new resource, a maintainer must approve your proposal before you open a pull request.
+            Read the [contribution guidelines](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CONTRIBUTING.md) for the process.
+          pr_message: |
+            Thank you for your first pull request.
+            A pull request that adds a new resource needs an approved Addition issue. Add its URL to the description.
+            Edits, broken-link fixes, and removals do not need an issue.
+            Read the [contribution guidelines](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CONTRIBUTING.md) for the process.

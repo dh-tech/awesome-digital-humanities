@@ -1,0 +1,79 @@
+name: Addition
+description: Propose a new resource for the list. Wait for maintainer approval before you open a pull request.
+labels: ["addition"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your proposal. A maintainer must approve it in a comment before you open a pull request.
+        An approved issue does not guarantee inclusion. See the [contribution guidelines](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CONTRIBUTING.md).
+  - type: input
+    id: resource
+    attributes:
+      label: Resource name and URL
+      placeholder: Example - https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: entry
+    attributes:
+      label: Proposed list entry and section
+      description: Use the list format. Name the section of the README.
+      placeholder: "- [Example](https://example.com) - Description."
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Digital-humanities research use case
+      description: Describe a concrete research task that the resource supports.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Distinctive scholarly value
+      description: Explain how the resource differs from existing entries in the list.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link to documentation, methods, research applications, publications, or reproducible examples.
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: License, price and access limits
+      description: Free and open-source resources are preferred. Commercial resources need clear research value.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your affiliation or commercial relationship with the project
+      description: Write "none" if you have none.
+    validations:
+      required: true
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI assistance
+      options:
+        - No AI assistance
+        - AI assisted, and I reviewed and understand this proposal
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I agree to the [Code of Conduct](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CODE_OF_CONDUCT.md).
+          required: true
+        - label: A human wrote or reviewed this proposal.
+          required: true
+        - label: I searched the list and the resource is not already in it.
+          required: true
