@@ -4,7 +4,7 @@
 
 > Software for humanities scholars using quantitative or computational methods.
 
-This is a curated list of tools, resources, and services supporting the Digital Humanities. [Contributions](CONTRIBUTING.md) are welcome!
+This is a curated list of tools, resources, and services supporting the Digital Humanities. [Contributions](CONTRIBUTING.md) are welcome! **To propose a new resource, first open an [Addition issue](https://github.com/dh-tech/awesome-digital-humanities/issues/new?template=addition.yml) and wait for maintainer approval.**
 
 ## Contents
 

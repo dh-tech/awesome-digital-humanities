@@ -1,18 +1,22 @@
 Add / Remove / Edit {entry name} to/from the "{section name}" section.
 
+**Approved Addition issue**
+
+Add the URL of the approved issue: <!-- https://github.com/dh-tech/awesome-digital-humanities/issues/... -->
+
+You need an approved issue only for a new resource.
+You do not need one for edits, broken-link fixes, or removals.
+
 **Short pitch**
 
-Describe why this change is made. Alternatively, refer to existing issues if
-any. You could try to answer:
-
-* Why do / don't you find this tool awesome?
-* How do you use this tool in your workflow?
-* What advantages / disadvantages does it have compared to {another tool}?
+Describe why you make this change.
 
 ## Checklist
 
-- [ ] I have read and understood the [contribution guidelines](https://github.com/writing-resources/awesome-scientific-writing/blob/main/CONTRIBUTING.md).
-- [ ] Table of contents has been updated (if a section is added / removed).
-- [ ] Contents have been sorted alphabetically.
+- [ ] I have read the [contribution guidelines](https://github.com/dh-tech/awesome-digital-humanities/blob/main/CONTRIBUTING.md) and this pull request follows them.
+- [ ] A human reviewed and understands this change.
+- [ ] I disclosed my affiliation or commercial interest, if any.
+- [ ] The table of contents is up to date (if a section is added or removed).
+- [ ] The contents are in alphabetical order.
 
 <!-- NOTE: Please do not skip the template -->
