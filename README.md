@@ -190,6 +190,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
 - [Gephi](https://gephi.org/) - Leading visualization and exploration software for all kinds of graphs and networks.
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
+- [MnemoClio](https://huggingface.co/spaces/Mnemosyne-OS/mnemoclio) - Timeline and map of 197 countries built mostly from Wikidata: regimes, wars and about 20 700 events, with what happened the same year in every other country.
 - [Palladio](https://hdlab.stanford.edu/palladio/) - Visualize complex historical data with ease.
 - [RAWGraphs](https://rawgraphs.io/) - Open source, web-based tool for the visualization of complex data.
 - [StorylineJS](https://storyline.knightlab.com/) - Tell the story behind the numbers.
