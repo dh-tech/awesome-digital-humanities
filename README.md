@@ -29,6 +29,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Bibliography and Sources Management
 
+- [citeparse](https://github.com/un-seen/citeparse) - Parses reference strings into CSL-JSON or BibTeX with a local model and checks them against Crossref and OpenAlex.
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Tropy](https://tropy.org/) - Research Photo Management.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
