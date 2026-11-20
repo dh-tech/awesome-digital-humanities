@@ -183,6 +183,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 
 ## Visualization
+- [Yuanmingyuan Digital Restoration](https://github.com/Ivan666jjj/yuanmingyuan-restoration) - Open, source-cited AI reconstruction atlas of the Yuanmingyuan (77 scenes, crowdsourced), with a bilingual site and a real-geometry map.
 
 - [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
