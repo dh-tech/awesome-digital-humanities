@@ -187,6 +187,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 ## Visualization
 
 - [Bertin.js](https://github.com/neocarto/bertin) - JavaScript library for visualizing geospatial data and make thematic maps for the web.
+- [Chronicles of the Realm (Jiangshan Map)](https://github.com/DeanChensj/jiangshan-map) - Open-source interactive historical atlas of China (403 BCE–present) with multi-stage dynastic borders, ancient city genealogies, and historical figure journeys.
 - [DARIAH-DE Geo-Browser](https://geobrowser.de.dariah.eu/) - Create visualizations with geotagges data.
 - [Gephi](https://gephi.org/) - Leading visualization and exploration software for all kinds of graphs and networks.
 - [Khartis](https://www.sciencespo.fr/cartographie/khartis/en/) - A tool for easy creation of thematic maps in 3 steps from CSV data.
