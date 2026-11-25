@@ -44,6 +44,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Data Commons](https://datacommons.org/) - Aggregates data from a [wide range of sources](https://docs.datacommons.org/datasets/) into a unified database to make it more accessible and useful.
 - [OpenArchive](https://open-archive.org/) - Making it easy to store, share, and amplify your mobile media while protecting your identity.
 - [Open EU Data Portal](https://data.europa.eu/euodp/en/data/) - European Union open data.
+- [Rosmaryn Library open data](https://library.rosmaryn.app/donnees/) - Open catalogue (CSV and JSON, CC BY 4.0) of 3,296 public domain books and open access articles on the history of esotericism, astrology and alchemy, in 33 languages. Archived on Harvard Dataverse with a DOI.
 - [Social Feed Manager](https://gwu-libraries.github.io/sfm-ui/) - Open source software that harvests social media data and web resources from Twitter, Tumblr, Flickr, and Sina Weibo.
 - [Trafilatura](https://trafilatura.readthedocs.io/) - Open source software to gather text and metadata on the Web: Crawling, scraping, extraction, output in multiple formats. Usable with Python, R and on the command-line.
 - [Transkribus](https://transkribus.eu/) - Transcribe. Collaborate. Share and benefit from cutting edge research in Handwritten Text Recognition!
