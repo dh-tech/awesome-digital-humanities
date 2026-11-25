@@ -148,6 +148,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Publishing
 
+- [Branching Story Kit](https://github.com/ouba-studio/branching-story-kit) - MIT-licensed, zero-dependency ES-module engine for authoring and publishing branching, nonlinear narratives on the web.
 - [CollectionBuilder](https://collectionbuilder.github.io/) - Open source tool for creating digital collection and exhibition websites based on metadata and powered by modern static web technology.
 - [Manifold](https://manifoldapp.org/) - Scholarly publishing and collaborative and social reading platform.
 - [Omeka](https://omeka.org/) - Open-source web publishing platform for sharing digital collections and creating media-rich online exhibits.
