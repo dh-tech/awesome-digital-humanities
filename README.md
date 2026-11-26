@@ -69,6 +69,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Extraction and Conversion
 
+- [FastScribe](https://fastscribe.org/) - Transcribe recorded interviews and export editable text or timestamped subtitles.
 - [ImageMagick](https://imagemagick.org/) - Image conversion tool.
 - [MuPDF](https://mupdf.com/) - PDF viewer and converter.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) - OCR toolkit.
